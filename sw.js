@@ -1,6 +1,6 @@
 // Offline support: the page is fetched fresh when online (so updates show up),
 // and served from the cache when there is no connection.
-const CACHE = 'math-quest-v1';
+const CACHE = 'math-quest-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
