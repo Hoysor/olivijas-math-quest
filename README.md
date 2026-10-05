@@ -1,4 +1,4 @@
-# Pip's Math Quest
+# Olivija's Math Quest
 
 A single-page math practice game for 1st and 2nd graders, following the US Common Core standards for grades 1 and 2.
 
